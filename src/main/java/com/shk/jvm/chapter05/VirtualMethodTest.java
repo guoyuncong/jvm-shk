@@ -1,9 +1,12 @@
+/*
 package com.shk.jvm.chapter05;
 
+*/
 /**
  * @author shkstart
  * @create 2020 下午 11:59
- */
+ *//*
+
 class Father {
     public static void print(String str) {
         System.out.println("father " + str);
@@ -21,3 +24,4 @@ public class VirtualMethodTest {
         //fa.show("cooooder");
     }
 }
+*/

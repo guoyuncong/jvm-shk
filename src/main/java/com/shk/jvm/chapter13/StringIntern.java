@@ -1,7 +1,5 @@
 package com.shk.jvm.chapter13;
 
-import org.junit.Test;
-
 /**
  * 如何保证变量s指向的是字符串常量池中的数据呢？
  * 有两种方式：

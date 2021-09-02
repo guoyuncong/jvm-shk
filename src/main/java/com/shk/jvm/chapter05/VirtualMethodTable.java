@@ -1,11 +1,13 @@
+/*
 package com.shk.jvm.chapter05;
 
-/**
+*
  * 虚方法表的举例
  *
  * @author shkstart
  * @create 2020 下午 1:11
- */
+
+
 interface Friendly {
     void sayHello();
     void sayGoodbye();
@@ -41,3 +43,4 @@ class CockerSpaniel extends Dog implements Friendly {
 
 public class VirtualMethodTable {
 }
+*/
